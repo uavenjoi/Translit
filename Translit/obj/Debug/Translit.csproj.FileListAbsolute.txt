@@ -1,0 +1,9 @@
+c:\users\rashid\documents\visual studio 2015\Projects\Translit\Translit\bin\Debug\Translit.exe.config
+c:\users\rashid\documents\visual studio 2015\Projects\Translit\Translit\bin\Debug\Translit.exe
+c:\users\rashid\documents\visual studio 2015\Projects\Translit\Translit\bin\Debug\Translit.pdb
+c:\users\rashid\documents\visual studio 2015\Projects\Translit\Translit\obj\Debug\Translit.csprojResolveAssemblyReference.cache
+c:\users\rashid\documents\visual studio 2015\Projects\Translit\Translit\obj\Debug\Translit.exe
+c:\users\rashid\documents\visual studio 2015\Projects\Translit\Translit\obj\Debug\Translit.pdb
+C:\Users\Rashid\Desktop\Translit\Translit\bin\Debug\Translit.exe.config
+C:\Users\Rashid\Desktop\Translit\Translit\obj\Debug\Translit.exe
+C:\Users\Rashid\Desktop\Translit\Translit\obj\Debug\Translit.pdb
